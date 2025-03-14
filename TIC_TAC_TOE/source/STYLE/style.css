@@ -14,7 +14,7 @@ body {
     font-size: 50px;
 }
 #gameContainer {
-    font-family: "Permanent Marker", cursive;
+/*     font-family: "Permanent Marker", cursive; */
     text-align: center;
 }
 #cellContainer {
